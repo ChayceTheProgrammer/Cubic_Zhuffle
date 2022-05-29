@@ -15,9 +15,9 @@ Thanks for reading!
 The tech demo of Cubic Zhuffle is available on this github already feel free to play it
 
 
-Any suggestions for the game should be emailed to my email: 
-Email: chayce4life@gmail.com
+Any suggestions for the game should be emailed to my email
 
+Email: chayce4life@gmail.com
 
 
 ***UPDATE***
