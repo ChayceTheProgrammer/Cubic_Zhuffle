@@ -22,4 +22,4 @@ Email: chayce4life@gmail.com
 
 ***UPDATE***
 Cubic Zhuffle Remastered is now titled Cube Game Remastered
-The first official release is out now and can be downloaded with the installer found in this directtory
+The first official release is out now and can be downloaded with the installer found in this directory
